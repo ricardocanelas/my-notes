@@ -21,6 +21,7 @@
 - [CodeSandBox](https://codesandbox.io)
 - [The Fron-end CheckList](https://frontendchecklist.io)
 - [React-Europe-2018](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
+- [Talks](https://awesometalks.party/)
 
 
 # Libraries/Packages
