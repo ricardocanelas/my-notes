@@ -8,7 +8,7 @@ As notações é baseado neste vídeo/curso - [https://www.youtube.com/watch?v=e
 - **Database**: MongoDB (using mLab)
 - **Client**: React, Apollo
 
-![overview](js_graphql_apollo_overview.png)
+![overview](https://github.com/ricardocanelas/my-notes/blob/master/_assets/js_graphql_apollo_overview.jpg)
 
 # Start Server
 
