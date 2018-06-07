@@ -1,4 +1,4 @@
-As notações é baseado neste vídeo/curso - [https://www.youtube.com/watch?v=ed8SzALpx1Q](https://www.youtube.com/watch?v=ed8SzALpx1Q), do [The Net Ninja Youtube channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
+As notações é baseado neste [vídeo/curso](https://www.youtube.com/watch?v=ed8SzALpx1Q), do [The Net Ninja Youtube channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
 
 [Código final](https://github.com/iamshaunjp/graphql-playlist/tree/lesson-36)
 
@@ -8,7 +8,7 @@ As notações é baseado neste vídeo/curso - [https://www.youtube.com/watch?v=e
 - **Database**: MongoDB (using mLab)
 - **Client**: React, Apollo
 
-![overview](https://github.com/ricardocanelas/my-notes/raw/master/_assets/js__graphql_apollo_overview.jpg)
+![overview](../_assets/images/graphql_apollo_overview.jpg)
 
 # Start Server
 

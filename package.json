@@ -1,0 +1,9 @@
+{
+  "name": "my-notes",
+  "version": "1.0.0",
+  "author": "Ricardo Canelas",
+  "private": true,
+  "scripts": {
+    "serve": "docsify serve docs -o -p 2987"
+  }
+}

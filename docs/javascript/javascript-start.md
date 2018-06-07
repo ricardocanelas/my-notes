@@ -7,3 +7,7 @@
 - [Fazendo apresentação com RevealJs](https://medium.com/code-prestige/revealjs-b20f83eaf104)
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
+## Links
+
+- [Gerador de documentação API](https://github.com/lord/slate)
