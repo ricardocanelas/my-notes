@@ -30,4 +30,5 @@
 * English
 
   * [Start](english/english-start.md)
+  * [Book - How to Speak English Fluently in 1 Week](english/book-fluently-a-week.md)
 
