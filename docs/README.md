@@ -1,3 +1,8 @@
-# Headline
+!> Looking for courses?
 
-> Welcome
+- [Packtpub](https://www.packtpub.com/)
+
+!> Talks
+
+- [Pagar.me](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw/videos) (BR)
+- [Info.Q](https://www.infoq.com/br/presentations?utm_source=infoq&utm_medium=breadcrumbs_feature&utm_campaign=breadcrumbs) (BR)
