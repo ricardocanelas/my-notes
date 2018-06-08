@@ -1,6 +1,6 @@
 As notações é baseado neste [vídeo/curso](https://www.youtube.com/watch?v=ed8SzALpx1Q), do [The Net Ninja Youtube channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
 
-[Código final](https://github.com/iamshaunjp/graphql-playlist/tree/lesson-36)
+?> [Código final](https://github.com/iamshaunjp/graphql-playlist/tree/lesson-36)
 
 # Project Overview
 
@@ -10,6 +10,8 @@ As notações é baseado neste [vídeo/curso](https://www.youtube.com/watch?v=ed
 
 ![overview](../_assets/images/graphql_apollo_overview.jpg)
 
+---
+
 # Start Server
 
 ```
@@ -18,6 +20,8 @@ npm install graphql express-graphql lodash cors
 cd server
 nodemon app.js
 ```
+
+---
 
 # A Simple ExpressApp
 
@@ -40,6 +44,8 @@ app.use('graphql', graphqlHTTP({
 
 app.listen(4000)
 ```
+
+---
 
 # A Simple Schema
 
@@ -75,6 +81,8 @@ const AuthorType = new GraphQLObjectType({
     })
 })
 ```
+
+---
 
 # A Simple RootQuery
 
@@ -138,6 +146,8 @@ module.export = new GraphQLSchema({
  **/
 ```
 
+---
+
 # Adding Relationship
 
 `server/schema/schema.js`
@@ -159,8 +169,9 @@ const BookType = ({
 })
 ```
 
-# Adding List
+---
 
+# Adding List
 
 `server/schema/schema.js`
 
@@ -181,7 +192,9 @@ const AuthorType = ({
 })
 ```
 
-# More About RootQuery (video: 15)
+---
+
+# All Books - RootQuery (video: 15)
 
 ```
 const RootQuery = new GraphQLObjectType({
@@ -218,6 +231,8 @@ const RootQuery = new GraphQLObjectType({
  * }
  **/
 ```
+
+---
 
 # Using mLab & MongoDB (video: 16, 17)
 
@@ -266,6 +281,8 @@ const authorSchema = new Schema({
 module.exports = mongoose.model('Author', authorSchema)
 ```
 
+---
+
 # Adding Mutation (edit, update, delete) (video: 18)
 
 `server/schema/schema.js`
@@ -309,6 +326,8 @@ module.exports = new GraphQLSchema({
  * }
  **/
 ```
+
+---
 
 # React (vídeo: 25, 26, 27)
 
@@ -380,6 +399,8 @@ class BookList extends Component {
 export default graphql(getBooksQuery)(BookList)
 ```
 
+---
+
 # AddBook (vídeo: 31, 32)
 
 `client/src/queries/queries.js`
@@ -442,6 +463,8 @@ export default compose(
     graphql(addBookMutation, { name: "addBookMutation"}),
 )(AddBook)
 ```
+
+---
 
 # GetBook
 
