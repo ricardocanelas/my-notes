@@ -23,6 +23,10 @@
 
 # Libraries/Packages
 
+## GraphQL
+
+- [URQL - Universal React Query Library](https://github.com/FormidableLabs/urql)
+
 ## Animtation
 
 - [React-Spring](https://github.com/drcmda/react-spring)
