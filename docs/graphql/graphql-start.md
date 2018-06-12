@@ -1,16 +1,16 @@
-## Tools/Links
+# Tools/Links
 
 - [Graph.Cool](http://www.graph.cool/cloud/)
 
 ---
 
-## Artigos
+# Artigos
 
 - [Apollo Anti-Patern](https://medium.com/entria/relay-apollo-anti-pattern-d9f4dea47738) (21 Aug, 2017)
 
 ---
 
-## Tutorials/Course
+# Tutorials/Course
 
 - [How To Graphql](https://www.howtographql.com) The Fullstack Tutorial for GraphQL (Backend, Frontend)
     - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
@@ -25,13 +25,13 @@
 
 ---
 
-## Talks
+# Talks
 
 - [Relay Modern - Sibelius Seraphini](https://www.youtube.com/watch?v=cEqOs1tg_C0) (26 Jan, 2018)
 
 ---
 
-## Codes/Examples
+# Codes/Examples
 
 - [React + Apollo 2](https://github.com/gsans/todo-apollo-v2-react) (9 Mar, 2018)
     - Server: Express App, GraphQL Server, Graphiql
