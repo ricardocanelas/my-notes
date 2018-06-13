@@ -1,6 +1,7 @@
 # Articles
 
 - [5 Things that Suck About Remote Work](https://shift.infinite.red/5-things-that-suck-about-remote-work-506b98dd38f9) (25 Jan, 2018)
+- [Becoming a dramatically better programmer](https://recurse.henrystanley.com/post/better/) (31 May, 2018)
 - [Principais Linguagens de Programação](https://becode.com.br/principais-linguagens-de-programacao/) (15 Mar, 2017)
 - [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d) (9 Apr, 2017)
 
