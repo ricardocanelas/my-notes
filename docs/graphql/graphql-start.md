@@ -6,6 +6,7 @@
 
 # Artigos
 
+- [Full Stack Error Handling with GraphQL and Apollo](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210) (13 Jun, 2018)
 - [Apollo Anti-Patern](https://medium.com/entria/relay-apollo-anti-pattern-d9f4dea47738) (21 Aug, 2017)
 
 ---
