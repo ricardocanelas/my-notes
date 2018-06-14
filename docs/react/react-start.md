@@ -1,18 +1,23 @@
-# Links
+# Articles
 
-## Articles
-
-- [The best way to bind event handlers in react](https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282db2cf1530)
-- [Apresentação comparativa dos diversos “gerenciadores de estado” em React](https://hackernoon.com/the-react-state-museum-a278c726315)
-- [Rollup vs Parcel vs Webpack](https://x-team.com/blog/rollup-webpack-parcel-comparison/?utm_source=xweekly&utm_medium=xweekly&utm_campaign=xweekly)
+- [React Baby Steps IV: Testing React-Redux](https://x-team.com/blog/testing-react-redux/) (14 Jun, 2018)
+- [React Baby Steps III: Idiomatic Redux](https://x-team.com/blog/idiomatic-redux/) (13 Jun, 2018)
+- [React Baby Steps II: The First Taste of Redux](https://x-team.com/blog/first-taste-of-redux) (12 Jun, 2018)
+- [React Baby Steps](https://x-team.com/blog/react-baby-steps/) (11 Jun, 2018)
+- [The best way to bind event handlers in react](https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282db2cf1530) (8 May, 2018)
+- [Apresentação comparativa dos diversos “gerenciadores de estado” em React](https://hackernoon.com/the-react-state-museum-a278c726315) (7 May, 2018)
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 
-## Tutorials
+----
 
-- [Node, React and GraphQL](https://blog.dmatoso.com/fullstack-node-react-graphql-introducao-2c2f18c757c4)
-- [React Native and GraphQL](https://www.youtube.com/watch?v=Jfisid9326c&feature=youtu.be)
+# Tutorials
 
-## Tools/Links/Others
+- [Node, React and GraphQL](https://blog.dmatoso.com/fullstack-node-react-graphql-introducao-2c2f18c757c4) (4 Mar, 2018)
+- [React Native and GraphQL](https://www.youtube.com/watch?v=Jfisid9326c&feature=youtu.be) (10 Mai, 2018)
+
+---
+
+# Tools/Links/Others
 
 - [SnackExpo](https://snack.expo.io)
 - [CodeSandBox](https://codesandbox.io)
@@ -20,23 +25,32 @@
 - [React-Europe-2018](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 - [Talks](https://awesometalks.party/)
 
+---
+
+# Books
+
+- [React in Patterns](https://github.com/krasimir/react-in-patterns)
+
+---
 
 # Libraries/Packages
 
-## GraphQL
+#### GraphQL
 
 - [URQL - Universal React Query Library](https://github.com/FormidableLabs/urql)
+- [Apollo Client](https://github.com/apollographql/apollo-client)
+- [All Libraries](https://www.graphqlstack.com/)
 
-## Animtation
+#### Animtation
 
 - [React-Spring](https://github.com/drcmda/react-spring)
 - [React-Motion](https://github.com/chenglou/react-motion)
 - [FluidTransition](https://github.com/fram-x/FluidTransitions)
 
-## Rest/SOAP
+#### Rest/SOAP
 
 - [SOAP-Everywhere](https://www.npmjs.com/package/soap-everywhere)
 
-## Form
+#### Form
 
 - [Mask](https://github.com/text-mask/text-mask/)
