@@ -1,5 +1,6 @@
 # Artigos
 
+- [Top 10 JavaScript errors from 1000+ projects](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437) (13 May, 2018)
 - [Rollup vs Parcel vs Webpack](https://x-team.com/blog/rollup-webpack-parcel-comparison/?utm_source=xweekly&utm_medium=xweekly&utm_campaign=xweekly) (7 May, 2018)
 - [Iterators e Generators no Javascript](https://medium.com/@carlosrberto/iterators-e-generators-no-javascript-89193fe6d0f8) (8 May, 2018)
 - [Escrevendo Javascript Melhor](https://udgwebdev.com/escrevendo-javascript-melhor-parte-7/) (1 May, 2018)
@@ -14,9 +15,18 @@
 
 ---
 
+# Libraries
+
+- [Peg.js](https://pegjs.org) (Parser Generator for JavaScript)
+- [PDFMake](http://pdfmake.org) (Client/server side PDF printing in pure JavaScript)
+
+---
+
 # Tools
 
-- [Build and Deploy](https://repl.it/)
+* Static Site Hosts
+    - [Build and Deploy](https://repl.it/)
+    - [Surge](http://surge.sh/)
 
 ----
 
