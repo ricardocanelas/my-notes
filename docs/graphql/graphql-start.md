@@ -1,6 +1,7 @@
 # Tools/Links
 
 - [Graph.Cool](http://www.graph.cool/cloud/)
+- [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
 
 ---
 
