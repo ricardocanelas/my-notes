@@ -18,6 +18,7 @@
     - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
     - [React + Relay Tutorial](https://www.howtographql.com/react-relay/0-introduction/)
     - [Node + Graphql-js](https://www.howtographql.com/graphql-js/0-introduction/)
+- [GraphQL with Apollo Server 2.0](https://github.com/arjunyel/firestore-apollo-graphql) (14 Jun, 2018)
 - [GraphQL Full Course - React + ApolloClient](https://www.youtube.com/watch?v=ed8SzALpx1Q) (9 May, 2018)
 - [A complete React with GraphQL Tutorial](https://www.robinwieruch.de/react-with-graphql-tutorial/) (4 April, 2018)
 - [GraphQL Stack in Node.js: Tools, Libraries, and Frameworks Explained and Compared](https://www.moesif.com/blog/technical/graphql/GraphQL-Stack-Nodejs-Tools-Libraries-Frameworks-Explained-and-Compared/) (26 March, 2018) :top:
