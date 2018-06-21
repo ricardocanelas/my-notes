@@ -60,3 +60,7 @@
 - [Styled Components](https://www.styled-components.com/)
 - [Glamour](https://github.com/threepointone/glamor)
 - [Typography](https://github.com/kyleamathews/typography.js)
+
+### Others
+
+- [Create Content Loader](https://github.com/danilowoz/create-content-loader) - It's a SVG component to create placeholder loading, like Facebook cards loading or also known as skeleton UI.
