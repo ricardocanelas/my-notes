@@ -9,6 +9,7 @@
 
 - [Full Stack Error Handling with GraphQL and Apollo](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210) (13 Jun, 2018)
 - [Apollo Anti-Patern](https://medium.com/entria/relay-apollo-anti-pattern-d9f4dea47738) (21 Aug, 2017)
+- [GraphQL vs Firebase](https://gist.github.com/nikolasburk/ea70b7f7c0a6e45941b20578fb60fa85) (2 April, 2017)
 
 ---
 
