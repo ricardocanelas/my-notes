@@ -26,7 +26,10 @@
 
 - [Indeed](https://www.indeed.com/worldwide)
 - [Monster](https://www.monster.com/geo/siteselection)
-- [Dice](https://www.dice.com/)
+- [Dice](https://www.dice.com/) - A job search engine focused on tech.
+- [Kaggle](https://www.kaggle.com/jobs) - This data science platform lists job postings, including remote and part-time opportunities.
+- [Jr. Dev Jobs](https://www.jrdevjobs.com/) - Showcase your profile as an aspiring developer here.
+
 
 #### To Work Remotely
 
@@ -38,7 +41,8 @@
 #### Others
 
 - [VanHack](https://www.vanhack.com)
-- [Angel - Get a Job at a Startup](https://angel.co/)
+- [Angel - Get a Job at a Startup](https://angel.co/) - The biggest job board for startups.
+- [Hired](https://hired.com/) The first two-sided marketplace created specifically for engineers, data scientists, designers and product managers who are overwhelmed with job opportunities.
 
 
 ---
