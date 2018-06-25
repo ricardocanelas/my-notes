@@ -47,3 +47,10 @@
 
 - [Pense em Aprender I](https://medium.com/@ferreiradev/pense-em-aprender-parte-1-os-3-n%C3%ADveis-do-saber-2e7cf5d8024a) (2 Jun, 2018)
 - [Becoming a dramatically better programmer](https://recurse.henrystanley.com/post/better/) (31 May, 2018)
+
+?> Helpers
+
+**Inspiration**
+
+- [Empty Stat](http://emptystat.es/) - Delight users by designing the empty states.
+- [Pttrns](https://pttrns.com/) - Check out the finest collection of design patterns, resources, mobile apps and inspiration
