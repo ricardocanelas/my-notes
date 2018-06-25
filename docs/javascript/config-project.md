@@ -91,7 +91,7 @@ npm install --save-dev --save-exact prettier
 
 # or globally
 yarn global add prettier
-npm install --global prettie
+npm install --global prettier
 ```
 
 2. Instalar o plugin
