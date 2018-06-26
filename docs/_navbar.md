@@ -18,10 +18,6 @@
   * [Start](graphql/graphql-start.md)
   * [Tutorial - React + Apollo](graphql/tutorial-graphql-apollo-react.md)
 
-* Tools
-
-  * [Tootls](tools/tools-start.md)
-
 * Git
 
   * [Udacity - Git and Github](git/udacity-git-github.md)
@@ -35,4 +31,9 @@
 
   * [Start](english/english-start.md)
   * [Book - How to Speak English Fluently in 1 Week](english/book-fluently-a-week.md)
+
+* Others
+
+  * [Tootls](others/tools.md)
+  * [People](others/people.md)
 
