@@ -35,6 +35,8 @@
 
 # Libraries/Packages
 
+[Which library to choose?](https://devarchy.com/react)
+
 #### GraphQL
 
 - [URQL - Universal React Query Library](https://github.com/FormidableLabs/urql)
