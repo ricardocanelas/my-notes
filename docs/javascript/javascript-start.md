@@ -10,6 +10,7 @@
 
 # Links
 
+- [SurviveJs](https://survivejs.com/) will take you from apprentice to master
 - [Gerador de documentação API](https://github.com/lord/slate)
 - [Popular test cases](https://jsperf.com/popular)
 
@@ -32,7 +33,9 @@
 
 # Books
 
+- [Eloquent JavaScript](https://eloquentjavascript.net/) (3rd edition)
 - [You don't know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Front-End Developer Handbook 2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 - [Typescript Book](https://github.com/basarat/typescript-book)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [JS Ninja Guide](https://sintra-fe.gitbooks.io/js-ninja-guide/content/)
