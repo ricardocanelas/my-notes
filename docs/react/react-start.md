@@ -19,6 +19,7 @@
 
 # Tools/Links/Others
 
+- [Q&A](https://www.reactiflux.com/transcripts/) of the Reactiflux community.
 - [SnackExpo](https://snack.expo.io)
 - [CodeSandBox](https://codesandbox.io)
 - [The Fron-end CheckList](https://frontendchecklist.io)
@@ -56,12 +57,26 @@
 #### Form
 
 - [Mask](https://github.com/text-mask/text-mask/)
+- [React-Final-Form](https://github.com/final-form/react-final-form)
 
 #### Styling
 
 - [Styled Components](https://www.styled-components.com/)
 - [Glamour](https://github.com/threepointone/glamor)
 - [Typography](https://github.com/kyleamathews/typography.js)
+
+### Testings
+
+- [React-Testing-Library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
+
+### Utils
+
+- [Why-did-you-update](https://github.com/maicki/why-did-you-update) - Puts your console on blast when React is making unnecessary updates.
+
+### Static
+
+- [React-Static](https://react-static.js.org/)
+- [Gatsby](https://github.com/gatsbyjs/gatsby)
 
 ### Others
 
