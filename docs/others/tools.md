@@ -19,6 +19,7 @@
 - [UI Goodies](http://uigoodies.com) - A directory of UI resources
 - [Empty Stat](http://emptystat.es/) - Delight users by designing the empty states.
 - [Pttrns](https://pttrns.com/) - Check out the finest collection of design patterns, resources, mobile apps and inspiration
+- [Mouse Crafted](https://mousecrafted.com/)
 
 ---
 
