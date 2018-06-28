@@ -1,8 +1,10 @@
 # Aula 1 - Buscando emprego
 
-1. Saber o que quer (Know what you want)
-2. Pesquisar para saber o que a empresa quer (Research to undestand what the employer wants)
-3. Aberto para oportunidades
+Procurar trabalho de forma efetiva / Key's to an Effective Job Search
+
+1. Saber o que quer (*Know what you want*)
+2. Pesquisar para saber o que a empresa quer (*Research to understand what the employer wants*)
+3. Aberto para oportunidades (*Be open to opportunity*)
 
 Escreva duas ou três coisas das quais você não abre mão. Por exemplo: localização; missão da empresa; sua função; etc.
 
@@ -110,4 +112,85 @@ Embora o LinkedIn seja a principal plataforma de networking, há muitas outras p
 
 # Revisão de Perfil do Github
 
--
+[Checklist](_assets/files/career_github_rubrica_checklist.pdf ":ignore")
+
+---
+
+### Carta de Apresentação
+
+Por que você é a pessoa perfeita para o trabalho?
+
+- Explicando por que estou empolgada com o trabalho.
+- E como minhas experiências diferentes são muito relevantes para as funções do cargo.
+- Também comunico que não quero a vagar apenas para ter um emprego, e sim porque quero construir uma carreira.
+- Conto quais aspectos do trabalho mais me interessam, e como vão me ajudar a ser um bom funcionário. E a realizar meus objetivos profissionais.
+
+Partes de uma carta de apresentação:
+
+1. Introdução [vídeo](https://www.youtube.com/watch?v=5S5PH73WLLY)
+    - Inclua seu objetivo e missão profissional.
+    - A carta deve conter o nome da empresa.
+    - E o cargo a que você almeja.
+    - Concentre-se menos em por que a empresa deve contratá-lo.
+    - Concentre-se mais em por que você quer trabalhar na empresa.
+
+```
+I am excited to apply for the position of Education Program Assistan at KQED
+```
+
+```
+I am a self-taught web-developer eager to use my five years of experience to support the next major revolution in online education...
+
+I am a passionate data analyst fascinated by the opportunities created by the abudance of available data and computing power in the modern accounting industry..
+```
+
+2. Escrevendo o corpo [vídeo](https://www.youtube.com/watch?v=aK9Qnv3a6Wg)
+    - Falar sobre seus projetos mais avançados
+    - Detalhes de suas qualificações e objetivos
+        - Deve incluir exemplos concretos da sua experiência.
+    - Reforçar seus objetivos
+    - Contar como têm a ver com o cargo
+
+```
+BAD
+I've built a variety of web applications for many audiences
+
+BETTER
+I recently built a website for members of a national organization. Some of the website features include an appointment scheduler that factors in time zone differences and a searchable online drive of meeting notes.
+```
+
+3. Escrevendo a conclusão [vídeo](https://www.youtube.com/watch?v=i3ozyhGPmIg)
+    - Última impressão que você vai causar no empregador.
+    - Resuma por que quer o emprego.
+    - E por que é a pessoa ideal para a vaga.
+    - Agradeça pelo tempo gasto e pela consideração
+
+```
+I am eager for this position and am grateful for the opportuninty to work for XXXX.
+
+I hope to be able to talk with you soon to discuss my qualifications.
+
+Thank you very much for your consideration.
+
+Best regards,
+
+<Your Full-Name>
+```
+
+4. Formato [vídeo](https://www.youtube.com/watch?v=Xlqoq-SoJso)
+    - Tornar a carta o mais fácil possível de ser lida
+    - Use margens de 2,5 cm
+    - Paragrafos justificados
+    - Coloque a data: dia, mes e ano
+
+```
+November 1, 2018
+
+CompanyName
+CompanyAddress
+CompanyCity, CompanyPostCode
+
+Name-Of-Recrutier / or Dear Nike Team
+```
+
+[Checklist](_assets/files/career_cover_letter_checklist.pdf ":ignore")
