@@ -194,3 +194,44 @@ Name-Of-Recrutier / or Dear Nike Team
 ```
 
 [Checklist](_assets/files/career_cover_letter_checklist.pdf ":ignore")
+
+---
+
+### Mande Bem na Entrevista
+
+- Geralmente a empresa faz uma entrevista por telefone. Em seguida vem uma estrevista pessoal.
+- Entrevista é uma conversa entre duas pessoas, não veja a entrevista como uma prova.
+- Não tenha medo de mudar de assunto, claro que você tem que responder a pergunta.
+
+Método STAR (Situation, Task, Action, Result)
+
+- Descreva um exemplo de quando você discordou de seu colega de trabalho/supervisor direto. Por que isso aconteceu? Como você lidou com isso?
+
+Exemplo:
+
+*Situação*: "um dia antes de lançarmos um novo recurso, uma nova vulnerabilidade foi anunciada no software do fornecedor que usamos. Consertar o problema adequadamente significou postergar o já atrasado cronograma. Uma outra equipe e eu discordamos sobre o que causou o problema, o patch de segurança ou o lançamento do recurso. O departamento de marketing teve muito problema lidando com este prazo”.
+
+*Tarefa*: "precisamos decidir qual objetivo buscar e trabalhar juntos, como uma equipe".
+
+*Ação*: "decidimos focar nos detalhes de cada problema juntos. Claramente, o prazo era importante, mas os dados de nossos usuários poderiam estar em risco se não fizéssemos um patch no sistema. Minha tarefa foi pesquisar a ameaça de segurança com mais detalhes, e percebi que ela não se aplicava a nossos usuários, pois nenhum deles tinha usado o navegador que apresentava a vulnerabilidade. Então, poderíamos apenas postar uma mensagem em nosso site sobre o navegador".
+
+*Resultado*: "fomos capazes de lançar nosso recurso a tempo, mesmo demorando um pouco para considerarmos uma questão importante, com que nem todo mundo concordava na época".
+
+Tenha o método STAR em mente sempre que pedirem para você resolver problemas ou descrever uma experiência durante entrevistas.
+
+---
+
+### Prática com perguntas comportamentais
+
+[Checklist](_assets/files/career_interview_perguntas_comportamentais.pdf ":ignore")
+
+Para absorver a mentalidade do entrevistador, faça estas perguntas a você mesmo sobre o candidato e suas respostas:
+
+- Ele usa o método STAR?
+- Qual é o tom de voz dele?
+- Ele responde à pergunta de forma concisa ou se perde
+
+### Erros em Entrevistas
+
+### Perguntas de entrevista de front-end
+
