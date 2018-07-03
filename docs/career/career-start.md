@@ -53,6 +53,7 @@
 
 # Tips, Helpers
 
+- [The Balance Careers](https://www.thebalancecareers.com) - can help you take your career to the next level.
 - [Sonicrida - Tips and Tricks](https://github.com/Sonicrida/web-dev-career-tips-and-tricks#job-hunting)
 - [Udacit - Central de carreira](https://career-resource-center.udacity.com/resume). Encontre dicas e orientações adicionais para o desenvolvimento de seu currículo.
 
