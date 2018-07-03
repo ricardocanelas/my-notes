@@ -1,5 +1,6 @@
 # Articles
 
+- [Essential React Libraries in 2018](https://www.robinwieruch.de/essential-react-libraries-framework/) :thumbsup:
 - [React Baby Steps IV: Testing React-Redux](https://x-team.com/blog/testing-react-redux/) (14 Jun, 2018)
 - [React Baby Steps III: Idiomatic Redux](https://x-team.com/blog/idiomatic-redux/) (13 Jun, 2018)
 - [React Baby Steps II: The First Taste of Redux](https://x-team.com/blog/first-taste-of-redux) (12 Jun, 2018)
