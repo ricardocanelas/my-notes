@@ -29,6 +29,9 @@
     - [Build and Deploy](https://repl.it/)
     - [Surge](http://surge.sh/)
 
+* Frameworks
+    - [Hexo](https://hexo.io/) - is a powerful blog framework. You write posts in Markdown.
+
 ----
 
 # Books
