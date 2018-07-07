@@ -4,6 +4,7 @@
   * [Udacity - Asynchronous](javascript/udacity-asynchronous.md)
   * [Udacity - ES6](javascript/udacity-es6.md)
   * [Udacity - Promises](javascript/udacity-promises.md)
+  * [Functional Programming](javascript/fp.md)
   * [Config Project](javascript/config-project.md)
 
 * React
