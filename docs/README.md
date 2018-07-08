@@ -18,7 +18,8 @@
 ?> Geral
 
 - [Stack Share](https://stackshare.io/) - Discover & compare tech stacks
-- [Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [React Developer-Roadmap](https://github.com/adam-golab/react-developer-roadmap) :thumbsup:
+- [General Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Dev Documentation](https://devdocs.io) - multiple API documentations (offline support)
 
 ---
