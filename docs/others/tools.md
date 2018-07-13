@@ -45,6 +45,7 @@
 
 **Design - Helpers**
 
+- [CodeMyUI](https://codemyui.com) - Web Design & UI Inspiration with Code Snippets
 - [UI Goodies](http://uigoodies.com) - A directory of UI resources
 - [Empty Stat](http://emptystat.es/) - Delight users by designing the empty states.
 - [Pttrns](https://pttrns.com/) - Check out the finest collection of design patterns, resources, mobile apps and inspiration
