@@ -32,6 +32,7 @@
 # Books
 
 - [React in Patterns](https://github.com/krasimir/react-in-patterns)
+- [The Road to Learn React](https://leanpub.com/the-road-to-learn-react)
 
 ---
 
