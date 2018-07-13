@@ -77,6 +77,8 @@
 
 ### Utils
 
+- [React Broadcast](https://github.com/ReactTraining/react-broadcast)
+- [Hoist Non React Statics](https://github.com/mridgway/hoist-non-react-statics)
 - [Why-did-you-update](https://github.com/maicki/why-did-you-update) - Puts your console on blast when React is making unnecessary updates.
 
 ### Static
