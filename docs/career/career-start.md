@@ -1,5 +1,6 @@
 # Articles
 
+- [10 Essential Skills That Hiring Managers Look For In Engineers](https://interestingengineering.com/10-essential-skills-that-hiring-managers-look-for-in-engineers) (15 Jul, 2018)
 - [5 Things that Suck About Remote Work](https://shift.infinite.red/5-things-that-suck-about-remote-work-506b98dd38f9) (25 Jan, 2018)
 - [Becoming a dramatically better programmer](https://recurse.henrystanley.com/post/better/) (31 May, 2018)
 - [Principais Linguagens de Programação](https://becode.com.br/principais-linguagens-de-programacao/) (15 Mar, 2017)
