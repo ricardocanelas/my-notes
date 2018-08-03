@@ -31,6 +31,15 @@
 
 ---
 
+?> Challenges
+
+- [CodeByte](https://www.coderbyte.com/challenges)
+- [Topcoder](https://www.topcoder.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeSignal](https://codesignal.com/)
+
+---
+
 ?> Services
 
 - [OneSignal](https://onesignal.com/) - High volume, cross platform push notifications and email.
