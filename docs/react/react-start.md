@@ -1,5 +1,6 @@
 # Articles
 
+- [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/) :thumbsup:
 - [Essential React Libraries in 2018](https://www.robinwieruch.de/essential-react-libraries-framework/) :thumbsup:
 - [React Baby Steps IV: Testing React-Redux](https://x-team.com/blog/testing-react-redux/) (14 Jun, 2018)
 - [React Baby Steps III: Idiomatic Redux](https://x-team.com/blog/idiomatic-redux/) (13 Jun, 2018)

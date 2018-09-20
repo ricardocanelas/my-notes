@@ -26,12 +26,20 @@
 
 # Tools
 
-* Static Site Hosts
+* Static Site Hosts / Deplo
     - [Build and Deploy](https://repl.it/)
     - [Surge](http://surge.sh/)
+    - [NetLify](netlify.com)
 
 * Frameworks
     - [Hexo](https://hexo.io/) - is a powerful blog framework. You write posts in Markdown.
+
+---
+
+# jQuery to Vanilla
+
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+- [Vanilla](http://codeblog.cz/vanilla/)
 
 ----
 

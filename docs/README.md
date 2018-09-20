@@ -17,6 +17,8 @@
 
 ?> Geral
 
+- [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+- [Alligator - Resources for React, Vue, and Angular](https://alligator.io/resources/)
 - [Stack Share](https://stackshare.io/) - Discover & compare tech stacks
 - [React Developer-Roadmap](https://github.com/adam-golab/react-developer-roadmap) :thumbsup:
 - [General Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
