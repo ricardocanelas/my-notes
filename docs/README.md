@@ -41,6 +41,14 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
 
+
+---
+
+?> Interest Git
+
+- [Example to use Relay (front-end)](https://github.com/Bastiani/jusbrasil-challenge-backend)
+- [Example to use Relay (back-end)](https://github.com/Bastiani/jusbrasil-challenge-frontend)
+- [Exemple using Graphql with React Native](https://github.com/Thomazella/rn-zero-hero)
 ---
 
 ?> Services

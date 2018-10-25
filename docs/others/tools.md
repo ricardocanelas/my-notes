@@ -57,3 +57,15 @@
 
 - [Box Starter](https://boxstarter.org/) (for Windows users)
 - [Cmder](http://cmder.net/)(console emulator for Windows)
+
+# Vídeos / Palestras Gerais
+
+- [Demetrius Nunes - Como a OLX processa milhões de anúncios por dia em menos 30 minutos usando FaaS](https://www.youtube.com/watch?v=dSfM1SXoZlI)
+
+---
+
+# Others
+
+- [Simple animated GIF screen recorder with an easy to use interface](https://github.com/phw/peek)
+- [GetKap](https://getkap.co/)
+- [Any API](https://any-api.com)

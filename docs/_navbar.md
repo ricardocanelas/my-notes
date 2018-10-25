@@ -13,6 +13,11 @@
   * [Udacity - React](react/udacity-1-react.md)
   * [Udacity - Redux](react/udacity-2-redux.md)
   * [Udacity - Native](react/udacity-3-native.md)
+  * [Patterns](react/react-patterns.md)
+
+* React Native
+
+  * [Start](react-native/react-native-start.md)
 
 * GraphQL
 
@@ -35,6 +40,6 @@
 
 * Others
 
-  * [Tootls](others/tools.md)
+  * [Tools](others/tools.md)
   * [People](others/people.md)
 
