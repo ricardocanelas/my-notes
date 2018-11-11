@@ -49,6 +49,10 @@
 - [Example to use Relay (front-end)](https://github.com/Bastiani/jusbrasil-challenge-backend)
 - [Example to use Relay (back-end)](https://github.com/Bastiani/jusbrasil-challenge-frontend)
 - [Exemple using Graphql with React Native](https://github.com/Thomazella/rn-zero-hero)
+
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+- [LibReact](https://github.com/streamich/libreact)
+
 ---
 
 ?> Services
