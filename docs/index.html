@@ -20,6 +20,13 @@
       background-color: #f3eeee;
       border-left: 2px solid #ccc;
     }
+    .sidebar-nav ul {margin-left: 0;}
+    .sidebar-nav li p a {padding-left: 15px }
+    p.active a {
+      background-color: #f4f4f4;
+      font-weight: bold !important;
+      border-right: 2px solid rgba(0,0,0,.07);
+    }
   </style>
 </head>
 <body>
@@ -37,7 +44,7 @@
         placeholder: 'Type to search',
         noData: 'No Results!',
         // Headline depth, 1 - 6
-        depth: 2
+        depth: 1
       }
     }
   </script>

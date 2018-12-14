@@ -1,45 +1,16 @@
-* Javascript
 
-  * [Start](javascript/javascript-start.md)
-  * [Udacity - Asynchronous](javascript/udacity-asynchronous.md)
-  * [Udacity - ES6](javascript/udacity-es6.md)
-  * [Udacity - Promises](javascript/udacity-promises.md)
-  * [Functional Programming](javascript/fp.md)
-  * [Config Project](javascript/config-project.md)
+* [JavaScript](javascript.md)
 
-* React
+* [React](react.md)
 
-  * [Start](react/react-start.md)
-  * [Udacity - React](react/udacity-1-react.md)
-  * [Udacity - Redux](react/udacity-2-redux.md)
-  * [Udacity - Native](react/udacity-3-native.md)
-  * [Patterns](react/react-patterns.md)
+* [React Native](react-native.md)
 
-* React Native
+* [GraphQL](graphql.md)
 
-  * [Start](react-native/react-native-start.md)
+* [Career](career.md)
 
-* GraphQL
+* [English](english.md)
 
-  * [Start](graphql/graphql-start.md)
-  * [Tutorial - React + Apollo](graphql/tutorial-graphql-apollo-react.md)
+* [Development](dev.md)
 
-* Git
-
-  * [Udacity - Git and Github](git/udacity-git-github.md)
-
-* Career
-
-  * [Start](career/career-start.md)
-  * [Udacity - Resume](career/udacity-resume.md)
-
-* English
-
-  * [Start](english/english-start.md)
-  * [Book - How to Speak English Fluently in 1 Week](english/book-fluently-a-week.md)
-
-* Others
-
-  * [Tools](others/tools.md)
-  * [People](others/people.md)
-
+* [Others](others.md)
