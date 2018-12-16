@@ -304,12 +304,14 @@ ReactDOM.render(
 ## Link
 
 ```javascript
-<Link to={{
+const to = {
   pathname: '/courses',
   search: '?sort=name',
   hash: '#the-hash',
   state: { fromDashboard: true }
-}}>
+}
+
+<Link to={to}>
   Courses
 </Link>
 ```
