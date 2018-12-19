@@ -61,6 +61,10 @@
 - [Paulo Barros](https://www.youtube.com/user/eslwinner) (Inglês Winner)
 - [Barry](https://www.youtube.com/user/barryinglaterra)
 
+*IELF*
+
+- [Free IELTS practice tests](https://takeielts.britishcouncil.org/prepare-test/free-practice-tests) (britishcouncil)
+
 ---
 
 # Skills
@@ -84,14 +88,6 @@
 - [VanHack Premium](https://www.vanhack.com/premium/) (IT)
 - [The Mimic Method](https://www.mimicmethod.com/) - ([vídeo](https://www.youtube.com/watch?v=p9hij0H8jp0))
 - [I Will Teach a Language](https://www.iwillteachyoualanguage.com/) (é um britânico que fala 8 idiomas)
-
----
-
-# Certifications
-
-*IELF*
-
-- [Free IELTS practice tests](https://takeielts.britishcouncil.org/prepare-test/free-practice-tests) (britishcouncil)
 
 ---
 
