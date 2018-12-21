@@ -31,6 +31,7 @@
 
 *Images - Loading - Background - Fonts*
 
+- [Icons8](https://icons8.com) ([outch](https://icons8.com/ouch))
 - [Loading.io](https://loading.io/) Build Your Ajax Loading Icons
 - [Background Generator](http://bg.siteorigin.com/)
 - [Cufon Fonts](https://www.cufonfonts.com/) Download free pc/mac/web fonts
