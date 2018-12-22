@@ -71,6 +71,12 @@
 
 ---
 
+# 👉 Manager
+
+- [The Front-End Checklist](https://frontendchecklist.io/) The Front-End Checklist Application is perfect for modern website
+
+---
+
 # 👉 APIs
 
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
