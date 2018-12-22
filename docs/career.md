@@ -7,12 +7,11 @@
 - [Principais Linguagens de Programação](https://becode.com.br/principais-linguagens-de-programacao/) (15 Mar, 2017)
 - [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d) (9 Apr, 2017)
 
-
 ---
 
 # Links
 
-*Podcasts*
+*Podcasts & Talks*
 
 - [DevNaEstrada](https://devnaestrada.com.br/) (br)
 - [MovimentoUX](http://movimentoux.com/) (br)
@@ -20,6 +19,7 @@
 - [Syntax](https://syntax.fm/)
 - [6figuredev](https://6figuredev.com/)
 - [NerdCast](https://jovemnerd.com.br/nerdcast/?search=&theme=tecnologia) (br)
+- [Awesome Talks](https://awesometalks.party/)
 
 ---
 
