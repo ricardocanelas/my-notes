@@ -22,6 +22,7 @@
 - [Pttrns](https://pttrns.com/) - Check out the finest collection of design patterns, resources, mobile apps and inspiration
 - [Mouse Crafted](https://mousecrafted.com/) - Free templates, icons, fonts, UI Kits
 - [Mobile Patterns](https://www.mobile-patterns.com/) Inspirational UI UX Patterns That Work
+- [UpLabs](https://www.uplabs.com/) Offering the best digital inspiration and downloads.
 
 *CSS*
 
@@ -35,6 +36,16 @@
 - [Loading.io](https://loading.io/) Build Your Ajax Loading Icons
 - [Background Generator](http://bg.siteorigin.com/)
 - [Cufon Fonts](https://www.cufonfonts.com/) Download free pc/mac/web fonts
+
+*Editor Image*
+
+- [Remove Background](https://www.remove.bg/)
+
+*Color, Palettes*
+
+- [Material Palette](https://www.materialpalette.com)
+- [Flat Ui Colors](https://flatuicolors.com/)
+
 
 ---
 
