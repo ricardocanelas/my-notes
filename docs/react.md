@@ -1,4 +1,6 @@
-# Articles
+# 👉 Links
+
+*Articles*
 
 - [React Conf Brasil 2018 - Slides, vídeos e materiais das talks](https://github.com/react-brasil/reactconfbr/issues/23)
 - [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/) :thumbsup:
@@ -9,25 +11,79 @@
 - [React Baby Steps](https://x-team.com/blog/react-baby-steps/) (11 Jun, 2018)
 - [The best way to bind event handlers in react](https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282db2cf1530) (8 May, 2018)
 - [Apresentação comparativa dos diversos “gerenciadores de estado” em React](https://hackernoon.com/the-react-state-museum-a278c726315) (7 May, 2018)
-- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 
-----
+*Others*
 
-# Tutorials
+- [Q&A - Reactiflux](https://www.reactiflux.com/transcripts/) of the Reactiflux community.
+- [React-Europe-2018](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 
+*Tutorials*
+
+- [TypeScript & React](https://fettblog.eu/typescript-react/) (2018) ⭐
 - [Node, React and GraphQL](https://blog.dmatoso.com/fullstack-node-react-graphql-introducao-2c2f18c757c4) (4 Mar, 2018)
 - [React Native and GraphQL](https://www.youtube.com/watch?v=Jfisid9326c&feature=youtu.be) (10 Mai, 2018)
 
 ---
 
-# Tools/Links/Others
+# 👉 Libraries
 
-- [Q&A](https://www.reactiflux.com/transcripts/) of the Reactiflux community.
-- [SnackExpo](https://snack.expo.io)
-- [CodeSandBox](https://codesandbox.io)
-- [The Fron-end CheckList](https://frontendchecklist.io)
-- [React-Europe-2018](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
-- [Talks](https://awesometalks.party/)
+[Which library to choose?](https://devarchy.com/react)
+
+*Starter Kits*
+- [Arc](https://arc.js.org/) - based on the Atomic Design methodology.
+
+*Animation*
+
+- [React-Spring](https://github.com/drcmda/react-spring)
+- [React-Motion](https://github.com/chenglou/react-motion)
+- [FluidTransition](https://github.com/fram-x/FluidTransitions)
+- [Lottie](http://airbnb.io/lottie/) - parses Adobe After Effects animations
+
+*GraphQL*
+
+- [URQL - Universal React Query Library](https://github.com/FormidableLabs/urql)
+- [Apollo Client](https://github.com/apollographql/apollo-client)
+
+
+*Routers*
+
+- [React Router Config](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config)
+
+*Rest/SOAP*
+
+- [SOAP-Everywhere](https://www.npmjs.com/package/soap-everywhere)
+
+*Form*
+
+- [Formik](https://github.com/jaredpalmer/formik)
+- [Mask](https://github.com/text-mask/text-mask/)
+- [React-Final-Form](https://github.com/final-form/react-final-form)
+
+*Styling*
+
+- [Styled Components](https://www.styled-components.com/)
+- [Glamour](https://github.com/threepointone/glamor)
+- [Typography](https://github.com/kyleamathews/typography.js)
+
+*Tests*
+
+- [Enzyme/Api/ReactWrapper](https://github.com/airbnb/enzyme/tree/master/docs/api/ReactWrapper)
+- [React-Testing-Library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
+
+*Utils*
+
+- [React Broadcast](https://github.com/ReactTraining/react-broadcast)
+- [Hoist Non React Statics](https://github.com/mridgway/hoist-non-react-statics)
+- [Why-did-you-update](https://github.com/maicki/why-did-you-update) - Puts your console on blast when React is making unnecessary updates.
+
+*Generators*
+
+- [React-Static](https://react-static.js.org/)
+- [Gatsby](https://github.com/gatsbyjs/gatsby)
+
+*Others*
+
+- [Create Content Loader](https://github.com/danilowoz/create-content-loader) - It's a SVG component to create placeholder loading, like Facebook cards loading or also known as skeleton UI.
 
 ---
 
@@ -37,61 +93,6 @@
 - [The Road to Learn React](https://leanpub.com/the-road-to-learn-react)
 
 ---
-
-# Libraries/Packages
-
-[Which library to choose?](https://devarchy.com/react)
-
-#### GraphQL
-
-- [URQL - Universal React Query Library](https://github.com/FormidableLabs/urql)
-- [Apollo Client](https://github.com/apollographql/apollo-client)
-- [All Libraries](https://www.graphqlstack.com/)
-
-#### Route
-
-- [React Router Config](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config)
-
-#### Animtation
-
-- [React-Spring](https://github.com/drcmda/react-spring)
-- [React-Motion](https://github.com/chenglou/react-motion)
-- [FluidTransition](https://github.com/fram-x/FluidTransitions)
-
-#### Rest/SOAP
-
-- [SOAP-Everywhere](https://www.npmjs.com/package/soap-everywhere)
-
-#### Form
-
-- [Mask](https://github.com/text-mask/text-mask/)
-- [React-Final-Form](https://github.com/final-form/react-final-form)
-
-#### Styling
-
-- [Styled Components](https://www.styled-components.com/)
-- [Glamour](https://github.com/threepointone/glamor)
-- [Typography](https://github.com/kyleamathews/typography.js)
-
-### Testings
-
-- [Enzyme/Api/ReactWrapper](https://github.com/airbnb/enzyme/tree/master/docs/api/ReactWrapper)
-- [React-Testing-Library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
-
-### Utils
-
-- [React Broadcast](https://github.com/ReactTraining/react-broadcast)
-- [Hoist Non React Statics](https://github.com/mridgway/hoist-non-react-statics)
-- [Why-did-you-update](https://github.com/maicki/why-did-you-update) - Puts your console on blast when React is making unnecessary updates.
-
-### Static
-
-- [React-Static](https://react-static.js.org/)
-- [Gatsby](https://github.com/gatsbyjs/gatsby)
-
-### Others
-
-- [Create Content Loader](https://github.com/danilowoz/create-content-loader) - It's a SVG component to create placeholder loading, like Facebook cards loading or also known as skeleton UI.
 
 # Research & Studies
 
