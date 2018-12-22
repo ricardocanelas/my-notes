@@ -6,6 +6,7 @@
 - [Becoming a dramatically better programmer](https://recurse.henrystanley.com/post/better/) (31 May, 2018)
 - [Principais Linguagens de Programação](https://becode.com.br/principais-linguagens-de-programacao/) (15 Mar, 2017)
 - [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d) (9 Apr, 2017)
+- [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) Jan 8, 2016
 
 ---
 
