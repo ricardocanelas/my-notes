@@ -20,7 +20,7 @@ Inclue também uma seção de habilidades resumindo todas as técnicas adquirida
 
 ## Experiência
 
-Ao descrever a sua experiência profissional, incluindo projetos você deve abranger três coisas:
+Ao descrever a sua experiência profissional, incluindo projetos, você deve abranger três coisas:
 
 1. **Ação**. Um empresa quer alguém que conclua os trabalhos, seja multitarefa e mostre resultados. Use o verbos de ação.
 2. **Números**. Sempre que possível, fale do seu trabalho de modo quantitativo. Exemplo: Trabalhei em uma equipe de 7 pessoas, ou trabalhei com uma equipe remotamente.
@@ -30,19 +30,17 @@ Ao descrever a sua experiência profissional, incluindo projetos você deve abra
 
 ## Reflexão
 
-Mantem a estrutura alinhada, remova o hiperlinks, ortografia, ter apenas uma página o currículo (no máximo duas páginas)
+Mantem a estrutura alinhada, remova o hiperlinks, ortografia, ter apenas uma página o currículo (no máximo duas páginas).
 
-## Revisão
+## Tipo de Curriculo
 
-A Udacity oferece 3 opções de avaliação relacionadas à sua experiência:
+Relacionadas à sua experiência:
 
 1. Ínicio de Carreira. Nível de admissão - 0 a 3 anos de experiencias. Já querem provar que já podem ingressar no mercado.
 2. Mudança de Carreira. Um gerente de restaurante que quisesse se tornar um desenvolvedor da web.
 3. Avanço na Carreira. Experiência anterior na área. Desenvolvedor web que quer trabalhar com aplicativos móveis.
 
 [Checklist do projeto](_assets/files/career_resume_rubrica_checklist.pdf ":ignore") Usando a rubrica do projeto como base, este checklist é muito útil durante a construção de seu currículo.
-
-[Marcar um horario](https://calendly.com/career-coach) com conselheiros de carreira.
 
 ---
 
@@ -55,6 +53,7 @@ Segredo é ter uma boa presença online e uma rede de contatos.
 * Otimizar o perfil do LinkedIn
 * Participar de meetups
 
+Links:
 - [Fazendo networking para encontrar um novo emprego](https://www.livecareer.com/quintessential/networking-guide)
 - [O que fazer e o que não fazer em feiras de carreiras e trabalho](https://www.livecareer.com/quintessential/career-job-fair-dos-donts)
 - [Quais são os mixers de carreiras?](https://bizcircle.att.com/small-business-human-resources/uncubed-the-new-job-fair-mixer-you-need-to-know-about-2/)
@@ -110,13 +109,13 @@ Embora o LinkedIn seja a principal plataforma de networking, há muitas outras p
 
 [Material de apoio (videos Zip File)](http://d2uz2655q5g6b2.cloudfront.net/4196538629/LinkedIn%20Profile%20Review%20Videos.zip)
 
-# Revisão de Perfil do Github
+### Github
 
-[Checklist](_assets/files/career_github_rubrica_checklist.pdf ":ignore")
+Revisão de Perfil do Github: [Checklist](_assets/files/career_github_rubrica_checklist.pdf ":ignore").
 
 ---
 
-### Carta de Apresentação
+## Carta de Apresentação
 
 Por que você é a pessoa perfeita para o trabalho?
 
@@ -197,7 +196,7 @@ Name-Of-Recrutier / or Dear Nike Team
 
 ---
 
-### Mande Bem na Entrevista
+## Mande Bem na Entrevista
 
 - Geralmente a empresa faz uma entrevista por telefone. Em seguida vem uma estrevista pessoal.
 - Entrevista é uma conversa entre duas pessoas, não veja a entrevista como uma prova.
@@ -219,9 +218,7 @@ Exemplo:
 
 Tenha o método STAR em mente sempre que pedirem para você resolver problemas ou descrever uma experiência durante entrevistas.
 
----
-
-### Prática com perguntas comportamentais
+### **Prática com perguntas comportamentais**
 
 [Checklist](_assets/files/career_interview_perguntas_comportamentais.pdf ":ignore")
 
@@ -229,9 +226,5 @@ Para absorver a mentalidade do entrevistador, faça estas perguntas a você mesm
 
 - Ele usa o método STAR?
 - Qual é o tom de voz dele?
-- Ele responde à pergunta de forma concisa ou se perde
-
-### Erros em Entrevistas
-
-### Perguntas de entrevista de front-end
+- Ele responde à pergunta de forma concisa ou se perde.
 
