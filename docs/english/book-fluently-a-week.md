@@ -8,10 +8,9 @@ Listening will improve your speaking capabilities hugely. You will learn the cor
 
 Remember to always read a book that is of your level. Reading English can get downright weird! Why? 'read' and 'read 'have the same spelling but different meanings as well as pronunciations. Reading takes patience. Do not try rushing through the book or newspaper. Conecentrate on every word that you read.
 
-
 ---
 
-## Tips
+## 👉  Tips
 
 > **Confidence**
 
@@ -71,36 +70,35 @@ Remember to always read a book that is of your level. Reading English can get do
 
 ---
 
-## Grammar
+## 👉 Grammar
 
-### Nouns
+### 🔹 Nouns
 
 In the simplest form, a noun is used to identify a name, place, animal or thing. It is also the largest English word class. Noun phrases are sentences that function as noun. For example: The **Eiffel Tower** is in **Paris**.
 
-### Pronouns
+### 🔹 Pronouns
 
 Pronouns function in place of nouns and noun phrases. These include `personal pronouns`, `interrogative pronouns`, `demonstrative pronouns`, and `relative pronouns`. For example, I, you, we, she, he, they are all pronouns. For example: **They** stabbed **him** in the back.
 
-### Verbs
+### 🔹 Verbs
 
 Verbs describe actions. For Example: She is **singing**. It is used for a word that describe any action being performed.
 
-### Adjective
+### 🔹 Adjective
 
 An adjective describes an attribute of a word or phrase. For example: She is singing **beutifully**.
 
-### Adverb
+### 🔹 Adverb
 
 An adverb is a word that modifies a verb, an adjective or another adverb. For example: Seabiscuit was the **fastest** runner at the Derby.
 
-### Conjunctions
+### 🔹 Conjunctions
 
 A conjunction is a word that is used to connect two sentences. It create a logical relation between two phrases. For example: `and`, `or`, `but`, `nor`, `as well as`, `neither`, `for`, `so`, etc. are called conjunctions.
 
-### Preposition
+### 🔹 Preposition
 
 A preposition is a word that shows the relation of a noun or pronoun to other words in the sentence. For example: The book is **in** the shelf.
-
 
 ---
 
