@@ -1,17 +1,17 @@
-# Articles, Posts...
+# 👉 Articles, Posts...
 
 - [105 Regular Verbs With ED In The Past](https://www.espressoenglish.net/105-regular-verbs-with-ed-in-the-past/)
 
 ---
 
-# Tools
+# 👉 Tools
 
 - [EAngel](https://eangel.me/)
 - [Grammarly](grammarly.com/)
 
 ---
 
-# Sites
+# 👉 Sites
 
 *Geral*
 
@@ -67,7 +67,7 @@
 
 ---
 
-# Skills
+# 👉 Skills
 
 *writing*
 
@@ -75,13 +75,13 @@
 
 ---
 
-# Others, Enternainments...
+# 👉 Others, Enternainments...
 
 - [Riddles and Answers](https://riddles.tips/)
 
 ---
 
-# Courses
+# 👉 Courses
 
 - [Cambly](https://camblystudent.weebly.com/)
 - [Lingbe](http://www.lingbe.com/)
@@ -91,6 +91,6 @@
 
 ---
 
-# Research & Studies
+# 👉 Research & Studies
 
 - [Book - How to Speak English Fluently in 1 Week](english/book-fluently-a-week.md)

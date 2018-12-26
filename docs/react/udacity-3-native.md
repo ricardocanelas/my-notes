@@ -1,3 +1,5 @@
+*-- Date: May 2018 --*
+
 REACT NATIVE
 
 # Aula 1 - Conhecendo o React Native e o utilizando

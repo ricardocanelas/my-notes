@@ -95,7 +95,6 @@ function getJson(url){
 
 # Aula 2 - Encadeando promises
 
-
 ```
 getJson('/data.json')
     .then((data) => {

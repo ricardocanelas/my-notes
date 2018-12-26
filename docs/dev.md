@@ -7,10 +7,16 @@
 - [Sketch App](https://www.sketchapp.com/) (99$ per year)
 - [Invision App](https://www.invisionapp.com/) (free) (starter 15$) (professional 25$)
 - [Balsamiq](https://balsamiq.com/) (9, 49, 199$)
+- [Whimsical](https://whimsical.co) (free) (12$)
 
 *Rest - GraphQL*
 
 - [Insomnia](https://insomnia.rest/) Debug APIs like a human, not a robot
+
+*Screen Recorders*
+
+- [Peek - GIF screen recorder](https://github.com/phw/peek) Simple animated GIF screen recorder with an easy to use interface
+- [GetKap](https://getkap.co/)
 
 ---
 
@@ -79,6 +85,7 @@
 
 # 👉 APIs
 
+- [Any API](https://any-api.com)
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis)
 

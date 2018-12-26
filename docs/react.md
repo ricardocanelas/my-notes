@@ -53,7 +53,6 @@ Library | ⭐ Stars | 👀 Watches  | 👷 Contributors | 📃 Commits | PWA   |
 [UxCore](https://github.com/uxcore/uxcore) | 616 | 36 | 3 | 259 | - |
 [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) | - | 57 |- | - | - |
 
-
 *Base UI Framework*
 
 - [Reakit](https://github.com/reakit/reakit)

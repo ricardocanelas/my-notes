@@ -1,4 +1,4 @@
-Javascript Harmony.. ES6... ES2015
+Javascript Harmony === ES6 === ES2015
 
 # Aula 1 - Sintaxe do ES6
 

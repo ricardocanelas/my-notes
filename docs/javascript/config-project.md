@@ -1,19 +1,4 @@
-
-
 # Editor Config
-
-```
-npm install eslint`
-./node_modules/.bin/eslint --init
-./node_modules/.bin/eslint .
-./node_modules/.bin/eslint --fix
-```
-
-```
-"scripts":{
-    "lint": "./node_modules/.bin/eslint ."
-}
-```
 
 `.editorconfig`
 
@@ -34,6 +19,18 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 ```
+
+# Lint
+
+**Linting** is the process of running a program that will analyse code for potential errors. *Lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs)*.
+
+Linters save time for you, by debugging your code before you even run your application. Additionally it makes sure you and your team are all following clean code practices.
+
+Cada IDE tem seu proprio Linter incluido. E temos opções para adicionar plugin para esse Linter, o mais conhecido é o ESLint.
+
+![overview](../_assets/images/config_linter_eslint_rules.jpeg)
+
+**ESLint**: The pluggable linting utility for JavaScript and JSX
 
 # Instalando o ESLint
 

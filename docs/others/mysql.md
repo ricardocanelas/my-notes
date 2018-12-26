@@ -1,3 +1,6 @@
+>> Working..
+
+# Notes
 
 - [Trouble with UTF 8 characters] (https://stackoverflow.com/questions/38363566/trouble-with-utf-8-characters-what-i-see-is-not-what-i-stored)
 - [What is the best collation to use for MySQL with PHP](https://stackoverflow.com/questions/367711/what-is-the-best-collation-to-use-for-mysql-with-php)
@@ -17,7 +20,7 @@ In 'unicode_520', for example, the two characters "ae" are treated as equal to t
 In most collations "lj" = "ǉ", but not in 'general'.
 
 
-Acessar o mysql
+# Acessar o mysql
 
 ```
 mysql -u root -p (com senha)

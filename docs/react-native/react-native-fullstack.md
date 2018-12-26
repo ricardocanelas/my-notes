@@ -1,3 +1,5 @@
+*-- Date: October 2018 --*
+
 REACT NATIVE
 
 **Expo** https://snack.expo.io/

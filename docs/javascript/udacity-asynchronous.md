@@ -1,4 +1,3 @@
-
 # Aula 1 - Ajax com XHR
 
 Ajax era um sigla para (Asynchronous Javascript And XML) JavaScript Assincrono e XML, mas é um termo errôneo agora. Ajax é o conceito de requisitar dados de forma assíncrona
