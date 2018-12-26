@@ -1,20 +1,27 @@
-# Tools/Links
+# 👉 Links
 
-- [Graph.Cool](http://www.graph.cool/cloud/)
-- [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
-
----
-
-# Artigos
+*Articles*
 
 - [Full Stack Error Handling with GraphQL and Apollo](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210) (13 Jun, 2018)
 - [Apollo Anti-Patern](https://medium.com/entria/relay-apollo-anti-pattern-d9f4dea47738) (21 Aug, 2017)
 - [GraphQL vs Firebase](https://gist.github.com/nikolasburk/ea70b7f7c0a6e45941b20578fb60fa85) (2 April, 2017)
 
+*Tools*
+
+- [GraphQL Code-Generator](https://graphql-code-generator.com/) *Generate code from your GraphQL schema with a single function call*
+- [Graph.Cool](http://www.graph.cool/cloud/)
+- [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
+
+
+*Talks, PodCasts*
+
+- [Relay Modern - Sibelius Seraphini](https://www.youtube.com/watch?v=cEqOs1tg_C0) (26 Jan, 2018)
+
 ---
 
-# Tutorials/Course
+# 👉 Tutorials/Course
 
+- [The GraphQL Stack](https://www.graphqlstack.com/)
 - [How To Graphql](https://www.howtographql.com) The Fullstack Tutorial for GraphQL (Backend, Frontend)
     - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
     - [React + Relay Tutorial](https://www.howtographql.com/react-relay/0-introduction/)
@@ -35,13 +42,9 @@
 
 ---
 
-# Talks
+# 👉 Codes, Examples, Boilerplates
 
-- [Relay Modern - Sibelius Seraphini](https://www.youtube.com/watch?v=cEqOs1tg_C0) (26 Jan, 2018)
-
----
-
-# Codes/Examples
+- [React + GraphQL](https://github.com/ricardocanelas/react-graphql-examples) Apollo, Relay (Nov, 2018)
 
 - [React + Apollo 2](https://github.com/gsans/todo-apollo-v2-react) (9 Mar, 2018)
     - Server: Express App, GraphQL Server, Graphiql
@@ -67,6 +70,6 @@
 
 ---
 
-# Research & Studies
+# 👉 Research & Studies
 
-- [Tutorial - React + Apollo](graphql/tutorial-graphql-apollo-react.md)
+- [The Net Ninja](graphql/tutorial-graphql-apollo-react.md) *Course: React + Apollo*
