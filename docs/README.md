@@ -5,6 +5,9 @@
 - [Fron-End Masters](https://frontendmasters.com/courses/)
 - [Skill Share](https://www.skillshare.com)
 - [Flavio Copes](https://flaviocopes.com/)
+- [EggHead](https://egghead.io/)
+- [Ivy League Free Online Courses](https://medium.freecodecamp.org/ivy-league-free-online-courses-a0d7ae675869)
+- [Scrimba](https://scrimba.com/)
 
 ---
 

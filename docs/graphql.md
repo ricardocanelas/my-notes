@@ -2,21 +2,39 @@
 
 *Articles*
 
-- [Full Stack Error Handling with GraphQL and Apollo](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210) (13 Jun, 2018)
-- [Apollo Anti-Patern](https://medium.com/entria/relay-apollo-anti-pattern-d9f4dea47738) (21 Aug, 2017)
-- [GraphQL vs Firebase](https://gist.github.com/nikolasburk/ea70b7f7c0a6e45941b20578fb60fa85) (2 April, 2017)
+- [The Problems of "Schema-First" GraphQL Server Development](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3) Jan, 2019
+- [Full Stack Error Handling with GraphQL and Apollo](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210) Jun, 2018
+- [Apollo Anti-Patern](https://medium.com/entria/relay-apollo-anti-pattern-d9f4dea47738) Aug, 2017
+- [GraphQL vs Firebase](https://gist.github.com/nikolasburk/ea70b7f7c0a6e45941b20578fb60fa85) April, 2017
+- [Designing GraphQL Mutations](https://blog.apollographql.com/designing-graphql-mutations-e09de826ed97) Mar, 2017
 
 *Tools*
 
+- [Relay Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
+- [Lucid](https://github.com/Gossamer-React/Lucid) - is a Chrome Developer Tool
+- [Easy GraphQL](https://easygraphql.com/) ([example](https://repl.it/@alejandroestrada/mock-easygraphql-tester))
 - [GraphQL Code-Generator](https://graphql-code-generator.com/) *Generate code from your GraphQL schema with a single function call*
 - [Graph.Cool](http://www.graph.cool/cloud/)
 - [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
 
-
 *Talks, PodCasts*
 
 - [Relay Modern - Sibelius Seraphini](https://www.youtube.com/watch?v=cEqOs1tg_C0) (26 Jan, 2018)
+- [GraphQL Summit 2018](https://www.youtube.com/watch?v=IjJkAL4RWyQ) (Nov, 2018)
 
+*Courses*
+
+- [Relay Modern Course](https://github.com/sibelius/relay-modern-course)
+- [Relay and Graphql Best Practices](https://code.kiwi.com/relay-and-graphql-best-practices-b09ce1d6d7ea)
+- [GraphQL Data in React with Apollo Client](https://egghead.io/courses/graphql-data-in-react-with-apollo-client)
+
+*Challenges*
+
+- [dexfs/fotontech-graphql-server-challenge](https://github.com/dexfs/fotontech-graphql-server-challenge)
+
+*Libraries*
+
+- [Graphql-relay-js](https://github.com/graphql/graphql-relay-js) A library to help construct a graphql-js server supporting react-relay.
 ---
 
 # 👉 Tutorials/Course

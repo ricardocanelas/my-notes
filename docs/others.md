@@ -28,6 +28,10 @@
 
 - [Git commit practices your future self will thank you for](https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/)
 
+*Tools*
+
+- [VFS for Git](https://vfsforgit.org/)
+
 *Research & Studies*
 
 - [Udacity - Git](others/git-udacity.md)

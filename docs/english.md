@@ -1,6 +1,7 @@
 # 👉 Articles, Posts...
 
 - [105 Regular Verbs With ED In The Past](https://www.espressoenglish.net/105-regular-verbs-with-ed-in-the-past/)
+- [Else](https://dictionary.cambridge.org/grammar/british-grammar/useful-phrases/else)
 
 ---
 
@@ -15,8 +16,7 @@
 
 *Geral*
 
-- [RealLife ](https://reallifeglobal.com/home/)
-
+- [RealLife](https://reallifeglobal.com/home/)
 
 *News*
 
@@ -72,6 +72,21 @@
 *writing*
 
 - [Writing Explained](https://writingexplained.org/blog)
+- [Yozzi](http://yozzi.com/english/)
+- [NaNoWriMo](https://nanowrimo.org/) - Write a novel in a month!
+  - [example](https://docs.google.com/document/d/1PCr2bAj7nlPQ5csslXEYuQ7MNgvXqVwfc034qUIVF1s/edit)
+
+*tools: writing*
+
+- [Hemingwayapp](http://www.hemingwayapp.com/)
+- [Lang8](https://lang-8.com/)
+- [Linguaplex](https://www.linguaplex.com/)
+
+*tools: github*
+
+- [Proofreader](https://github.com/kdzwinel/Proofreader)
+- [write Good](https://github.com/btford/write-good)
+- [NodeHun](https://github.com/Wulf/nodehun)
 
 ---
 

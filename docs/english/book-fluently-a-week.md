@@ -72,6 +72,8 @@ Remember to always read a book that is of your level. Reading English can get do
 
 ## 👉 Grammar
 
+Nouns, pronouns, verbs, adjective, adverb, conjunctions, preposition.
+
 ### 🔹 Nouns
 
 In the simplest form, a noun is used to identify a name, place, animal or thing. It is also the largest English word class. Noun phrases are sentences that function as noun. For example: The **Eiffel Tower** is in **Paris**.

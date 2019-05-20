@@ -1,5 +1,11 @@
 >> Working..
 
+# Links
+
+*Others*
+
+- [Limitations of Windows containers for localhost and published ports](https://docs.docker.com/docker-for-windows/troubleshoot/#limitations-of-windows-containers-for-localhost-and-published-ports)
+
 # Notes
 
 Como Docker funciona:
