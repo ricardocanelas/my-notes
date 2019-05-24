@@ -58,7 +58,7 @@
 
 Library | ⭐ Stars | 👀 Watches  | 👷 Contributors | 📃 Commits | PWA   |
 --------|-----------|-------------|----------------|-------------|--------|
-[EverGreen](https://github.com/segmentio/evergreen) | 6800 | 110 | 40 | 500 | - |
+[EverGreen](https://github.com/segmentio/evergreen) | 6800 | 110 | 40 | 400 | - |
 [Material-UI](https://github.com/mui-org/material-ui) | 42911 | 1323 | 1061 | 8586 | - |
 [Ant-Design](https://github.com/ant-design/ant-design) | 37145 | 1330 | 691 | 13277 | 📱 |
 [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | 14367 | 480 | 223 | 2583 | - |
@@ -79,6 +79,10 @@ Library | ⭐ Stars | 👀 Watches  | 👷 Contributors | 📃 Commits | PWA   |
 [UxCore](https://github.com/uxcore/uxcore) | 616 | 36 | 3 | 259 | - |
 [Priceline](https://github.com/pricelinelabs/design-system) | 334 | 33 | 31 | 1108 | - |
 [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) | - | 57 |- | - | - |
+[React Desktop](https://github.com/gabrielbull/react-desktop) | 8234 | 238 | 20 | 505 | 📱 |
+[Elemental](https://github.com/elementalui/elemental) | 4243 | 102 | 28 | 794 | - |
+[RSuite](https://github.com/elementalui/elemental) | 2706 | 68 | 17 | 1098 | - |
+[Belle](https://github.com/nikgraf/belle/) | 2372 | 44 | 19 | 1528 | - |
 
 *Base UI Framework*
 
