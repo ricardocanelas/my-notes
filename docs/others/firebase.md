@@ -24,10 +24,6 @@ Test:
 ```
 // any logged in user can get a list of room names
 ".read": "auth !== null",
-
-
-
-
 ```
 
 ```
@@ -49,3 +45,5 @@ Test:
 ```
 
 *Cloud Firestore*
+
+...

@@ -50,6 +50,7 @@
 
 *CSS*
 
+- [CSS Reference](https://tympanus.net/codrops/css_reference/) Good to study
 - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexboxes](http://the-echoplex.net/flexyboxes/)
 - [Grid](http://grid.malven.co/)

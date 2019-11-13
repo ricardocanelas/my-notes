@@ -1,5 +1,6 @@
 ?> Looking for courses? Do you want learn something?
 
+- [Learn X in Y minutes](https://github.com/adambard/learnxinyminutes-docs)
 - [FrontArm](https://frontarm.com/)
 - [Packtpub](https://www.packtpub.com/)
 - [Fron-End Masters](https://frontendmasters.com/courses/)

@@ -1,8 +1,10 @@
->> Working..
-
 # Links
 
-*Others*
+*Useful*
+
+- [Dockerhub Explore](https://hub.docker.com/search?q=&type=image)
+
+*Troubleshoots*
 
 - [Limitations of Windows containers for localhost and published ports](https://docs.docker.com/docker-for-windows/troubleshoot/#limitations-of-windows-containers-for-localhost-and-published-ports)
 
@@ -98,4 +100,14 @@ Removendo image
 
 ```
 docker rmi <image-id>
+```
+
+### Cheetsheat
+
+```bash
+# Removing all containers with status 'exited'
+docker rm $(docker ps -a -q -f status=exited)
+
+# remove all stopped containers (achieve the same effect above)
+docker container prune
 ```

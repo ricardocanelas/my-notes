@@ -91,6 +91,20 @@ Library | ⭐ Stars | 👀 Watches  | 👷 Contributors | 📃 Commits | PWA   |
 - [Elemental](https://github.com/elementalui/elemental)
 - [Styled System](https://github.com/jxnblk/styled-system) - Responsive, theme-based style props for building design systems with React
 
+
+*Chart Frameworks*
+
+Library | ⭐ Stars | 👀 Watches  | 👷 Contributors | 📃 Commits |
+--------|-----------|-------------|----------------|-------------|
+[Chart](https://github.com/chartjs/Chart.js) | 45294 | 1457 | 300 | 2771
+[Uber-React-Vis](https://github.com/uber/react-vis) | 6132 | 2058 | 108 | 845
+[Recharts](https://github.com/recharts/recharts) | 12416 | 186 | 132 | 1372
+[ApexCharts](https://github.com/apexcharts/apexcharts.js) | 7333 | 115 | 38 | 1092
+[Victory](https://github.com/FormidableLabs/victory) | 7436 | 114 | 108 | 6192
+[Nivo](https://github.com/plouc/nivo) | 5771 | 76 | 41 | 783
+[React-Chartjs2](https://github.com/jerairrest/react-chartjs-2) | 2190 | 28 | 43 | 207
+
+
 *UI Components*
 
 - [Nivo](https://nivo.rocks/) - Charts

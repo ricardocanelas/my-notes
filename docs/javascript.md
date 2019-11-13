@@ -2,6 +2,7 @@
 
 *Articles*
 
+- [An Overview of JavaScript Testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) February, 2019
 - [TypeScript Roadmap: January - June 2019](https://github.com/Microsoft/TypeScript/issues/29288)
 - [Lenses](https://medium.com/javascript-scene/lenses-b85976cb0534) Dec, 2018
@@ -15,6 +16,7 @@
 
 *Learn*
 
+- [Full Stack Open 2019](https://fullstackopen.com/en/)
 - [TypeScript: Clean Code](https://github.com/vitorfreitas/clean-code-typescript)
 - [SurviveJs](https://survivejs.com/) will take you from apprentice to master
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/) (jQuery to Vanilla)
@@ -44,6 +46,7 @@
 
 *Tests*
 
+- [Jest cheatsheet](https://devhints.io/jest)
 - [Popular test cases](https://jsperf.com/popular)
 
 ---
